@@ -1,0 +1,10 @@
+,Missing Values,Percentage
+patient_id,0,0.0
+age,72,6.0
+gender,48,4.0
+region,60,5.0
+bmi,84,7.0
+blood_pressure,0,0.0
+cholesterol,72,6.0
+glucose,84,7.0
+disease_risk,0,0.0

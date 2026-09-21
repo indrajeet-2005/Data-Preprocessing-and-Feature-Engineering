@@ -1,0 +1,5 @@
+Feature,Z-Score,IQR,Percentile
+bmi,5,7,24
+blood_pressure,5,7,24
+cholesterol,5,13,24
+glucose,5,11,12
