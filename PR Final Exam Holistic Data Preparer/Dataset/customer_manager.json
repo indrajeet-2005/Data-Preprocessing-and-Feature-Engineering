@@ -1,0 +1,482 @@
+[
+  {
+    "customer_id": "C10001",
+    "manager": "Asha",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10002",
+    "manager": "Vivek",
+    "branch": "Ahmedabad",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10003",
+    "manager": "Neha",
+    "branch": "Rajkot",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10004",
+    "manager": "Vivek",
+    "branch": "Rajkot",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10005",
+    "manager": "Neha",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10006",
+    "manager": "Neha",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10007",
+    "manager": "Rohan",
+    "branch": "Vadodara",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10008",
+    "manager": "Vivek",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10009",
+    "manager": "Neha",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10010",
+    "manager": "Asha",
+    "branch": "Vadodara",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10011",
+    "manager": "Neha",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10012",
+    "manager": "Neha",
+    "branch": "Ahmedabad",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10013",
+    "manager": "Vivek",
+    "branch": "Rajkot",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10014",
+    "manager": "Asha",
+    "branch": "Surat",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10015",
+    "manager": "Asha",
+    "branch": "Rajkot",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10016",
+    "manager": "Asha",
+    "branch": "Ahmedabad",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10017",
+    "manager": "Neha",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10018",
+    "manager": "Neha",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10019",
+    "manager": "Asha",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10020",
+    "manager": "Asha",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10021",
+    "manager": "Vivek",
+    "branch": "Ahmedabad",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10022",
+    "manager": "Neha",
+    "branch": "Ahmedabad",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10023",
+    "manager": "Rohan",
+    "branch": "Ahmedabad",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10024",
+    "manager": "Neha",
+    "branch": "Ahmedabad",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10025",
+    "manager": "Neha",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10026",
+    "manager": "Vivek",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10027",
+    "manager": "Neha",
+    "branch": "Rajkot",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10028",
+    "manager": "Asha",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10029",
+    "manager": "Asha",
+    "branch": "Rajkot",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10030",
+    "manager": "Vivek",
+    "branch": "Ahmedabad",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10031",
+    "manager": "Neha",
+    "branch": "Vadodara",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10032",
+    "manager": "Rohan",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10033",
+    "manager": "Vivek",
+    "branch": "Rajkot",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10034",
+    "manager": "Vivek",
+    "branch": "Ahmedabad",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10035",
+    "manager": "Neha",
+    "branch": "Ahmedabad",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10036",
+    "manager": "Neha",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10037",
+    "manager": "Rohan",
+    "branch": "Ahmedabad",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10038",
+    "manager": "Rohan",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10039",
+    "manager": "Vivek",
+    "branch": "Ahmedabad",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10040",
+    "manager": "Asha",
+    "branch": "Ahmedabad",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10041",
+    "manager": "Asha",
+    "branch": "Rajkot",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10042",
+    "manager": "Neha",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10043",
+    "manager": "Rohan",
+    "branch": "Ahmedabad",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10044",
+    "manager": "Neha",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10045",
+    "manager": "Vivek",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10046",
+    "manager": "Rohan",
+    "branch": "Ahmedabad",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10047",
+    "manager": "Vivek",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10048",
+    "manager": "Neha",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10049",
+    "manager": "Vivek",
+    "branch": "Rajkot",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10050",
+    "manager": "Vivek",
+    "branch": "Rajkot",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10051",
+    "manager": "Asha",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10052",
+    "manager": "Asha",
+    "branch": "Rajkot",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10053",
+    "manager": "Neha",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10054",
+    "manager": "Asha",
+    "branch": "Rajkot",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10055",
+    "manager": "Neha",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10056",
+    "manager": "Vivek",
+    "branch": "Rajkot",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10057",
+    "manager": "Rohan",
+    "branch": "Vadodara",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10058",
+    "manager": "Neha",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10059",
+    "manager": "Neha",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10060",
+    "manager": "Asha",
+    "branch": "Ahmedabad",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10061",
+    "manager": "Rohan",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10062",
+    "manager": "Rohan",
+    "branch": "Rajkot",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10063",
+    "manager": "Vivek",
+    "branch": "Ahmedabad",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10064",
+    "manager": "Neha",
+    "branch": "Rajkot",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10065",
+    "manager": "Neha",
+    "branch": "Ahmedabad",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10066",
+    "manager": "Vivek",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10067",
+    "manager": "Neha",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10068",
+    "manager": "Rohan",
+    "branch": "Surat",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10069",
+    "manager": "Rohan",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10070",
+    "manager": "Vivek",
+    "branch": "Surat",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10071",
+    "manager": "Rohan",
+    "branch": "Vadodara",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10072",
+    "manager": "Rohan",
+    "branch": "Ahmedabad",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10073",
+    "manager": "Asha",
+    "branch": "Surat",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10074",
+    "manager": "Rohan",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10075",
+    "manager": "Asha",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10076",
+    "manager": "Asha",
+    "branch": "Surat",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10077",
+    "manager": "Vivek",
+    "branch": "Ahmedabad",
+    "account_status": "Review"
+  },
+  {
+    "customer_id": "C10078",
+    "manager": "Rohan",
+    "branch": "Vadodara",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10079",
+    "manager": "Rohan",
+    "branch": "Rajkot",
+    "account_status": "Active"
+  },
+  {
+    "customer_id": "C10080",
+    "manager": "Asha",
+    "branch": "Rajkot",
+    "account_status": "Active"
+  }
+]

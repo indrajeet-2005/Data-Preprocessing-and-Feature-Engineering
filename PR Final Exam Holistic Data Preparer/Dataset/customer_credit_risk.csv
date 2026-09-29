@@ -1,0 +1,221 @@
+customer_id,age,gender,region,education_level,employment_type,annual_income,loan_amount,loan_purpose,credit_score,repayment_history,transaction_count,spending_ratio,join_date,default_flag
+C10001,42.0,Female,North,Post-Graduate,Salaried,935320.78,277028.12,Other,579.0,26,44,0.319,2026-05-26,1
+C10002,43.0,Female,Central,Post-Graduate,Business,558804.45,204240.96,Business,712.0,17,30,0.304,2023-07-13,0
+C10003,23.0,Male,North,High School,Salaried,1060126.33,656982.47,Other,673.0,11,37,0.208,2022-05-23,0
+C10004,41.0,Other,East,Graduate,Business,1113358.12,176696.86,Education,829.0,24,39,0.855,2026-09-01,0
+C10005,41.0,Other,South,Graduate,Self-Employed,303710.15,108621.11,Car,688.0,24,36,0.422,2023-08-01,0
+C10006,,Male,South,Post-Graduate,Salaried,485389.74,206036.05,Other,817.0,22,33,0.28,2026-08-31,0
+C10007,26.0,Female,North,Graduate,Self-Employed,885795.31,603824.48,Car,623.0,2,35,0.777,2026-04-15,1
+C10008,22.0,,Central,High School,Self-Employed,761452.07,496899.09,Car,741.0,17,39,0.419,2026-03-18,0
+C10009,21.0,Female,East,High School,Business,845295.68,636520.65,Other,722.0,22,41,0.128,2024-05-06,0
+C10010,42.0,Other,South,PhD,Business,611147.7,398407.46,Other,639.0,35,42,0.23,2025-08-04,0
+C10011,24.0,Male,West,Graduate,Self-Employed,9000000.0,448202.93,Car,712.0,19,33,0.611,2026-07-11,0
+C10012,63.0,Male,North,Post-Graduate,Self-Employed,1067781.74,700936.69,Business,785.0,12,42,0.726,2022-07-20,1
+C10013,31.0,Male,East,Graduate,Salaried,,171069.35,Other,677.0,20,45,0.269,2021-03-21,0
+C10014,49.0,Other,East,Post-Graduate,Self-Employed,1165627.54,250651.9,Business,582.0,6,44,0.834,2022-11-05,1
+C10015,50.0,Female,East,High School,Unemployed,980902.62,739653.82,Home,699.0,3,29,0.781,2024-08-30,1
+C10016,42.0,Other,,High School,Self-Employed,609398.11,456649.43,Business,637.0,25,25,0.779,2024-02-24,1
+C10017,59.0,Female,Central,Post-Graduate,Self-Employed,953250.22,390669.24,Home,676.0,36,41,0.282,2021-06-19,0
+C10018,25.0,Male,South,Post-Graduate,Salaried,581512.87,279286.44,Other,694.0,31,39,0.14,2024-03-23,0
+C10019,31.0,Female,West,Graduate,Business,1095966.08,5000000.0,Home,581.0,21,29,0.794,2022-01-02,1
+C10020,32.0,Male,West,Graduate,Unemployed,836020.74,707922.12,Other,587.0,1,43,0.345,2023-11-28,1
+C10021,26.0,Other,South,Graduate,Salaried,798238.54,433527.97,Home,,36,37,0.595,2024-04-23,0
+C10022,33.0,Other,North,Graduate,Salaried,659339.73,367339.81,Education,663.0,16,27,0.708,2024-08-30,0
+C10023,34.0,Other,South,High School,Salaried,1192311.57,517983.91,Car,520.0,10,40,0.203,2023-05-17,1
+C10024,54.0,Female,Central,Post-Graduate,Salaried,806731.75,352330.95,Other,755.0,33,41,0.725,2023-05-08,0
+C10025,34.0,Male,Central,Graduate,Self-Employed,730068.21,467092.43,Car,719.0,27,41,0.851,2024-11-26,0
+C10026,59.0,Male,Central,Post-Graduate,Salaried,751402.61,705565.57,Business,250.0,27,34,0.683,2025-04-23,0
+C10027,54.0,Female,South,High School,Salaried,999046.57,612670.51,Home,608.0,10,30,0.453,2025-08-24,0
+C10028,60.0,Female,West,High School,Self-Employed,952324.34,312921.88,Education,759.0,36,28,0.801,2022-12-02,0
+C10029,25.0,Other,North,Graduate,Self-Employed,965565.13,316007.16,Other,724.0,16,30,0.522,2023-06-10,0
+C10030,64.0,Other,West,Graduate,,970629.88,727803.92,Other,850.0,19,42,0.696,2022-11-26,0
+C10031,48.0,Male,East,Graduate,Self-Employed,1449661.33,986876.64,Car,729.0,27,39,0.756,2024-01-13,1
+C10032,64.0,Male,West,High School,Self-Employed,736203.8,187999.78,Car,727.0,24,34,0.699,2021-09-25,0
+C10033,36.0,Female,West,Post-Graduate,Business,706572.04,137095.44,Education,688.0,6,30,0.33,2023-06-23,0
+C10034,62.0,Female,Central,Post-Graduate,Self-Employed,622143.64,374171.3,Education,757.0,11,39,0.194,2022-02-01,0
+C10035,46.0,Male,East,Post-Graduate,Salaried,1022474.24,199656.18,Education,744.0,13,40,0.291,2024-01-24,0
+C10036,24.0,Other,South,High School,Self-Employed,1166112.24,736802.82,Home,788.0,35,37,0.502,2025-11-22,0
+C10037,39.0,Other,East,Graduate,Salaried,818094.71,155323.58,Business,664.0,26,40,0.504,2026-09-01,0
+C10038,,Female,North,Graduate,Salaried,614756.19,75908.85,Car,670.0,13,23,0.566,2023-07-27,0
+C10039,62.0,Male,North,Graduate,Salaried,619145.26,459914.67,Car,666.0,27,36,0.416,2021-04-29,0
+C10040,34.0,Other,East,Graduate,Business,1032165.98,253900.84,Other,755.0,27,35,0.73,2022-04-24,0
+C10041,30.0,Male,Central,High School,Self-Employed,1058111.17,505208.71,Business,805.0,14,42,0.831,2021-08-09,0
+C10042,45.0,Female,East,Graduate,Salaried,1002083.2,335485.4,Car,668.0,14,34,0.297,2025-05-14,0
+C10043,39.0,Other,West,Graduate,Self-Employed,663657.28,85854.29,Other,670.0,33,36,0.689,2026-08-30,0
+C10044,25.0,Other,North,Graduate,Salaried,915005.17,175135.75,Car,722.0,20,37,0.642,2024-03-09,0
+C10045,56.0,Male,East,High School,Self-Employed,882672.03,138132.51,Education,683.0,5,25,0.518,2022-01-07,0
+C10046,58.0,Female,West,Graduate,Business,911232.81,228176.78,Car,767.0,26,39,0.251,2021-02-14,0
+C10047,53.0,Male,South,Graduate,Self-Employed,1094000.06,217952.69,Home,542.0,21,45,0.736,2026-08-12,1
+C10048,48.0,Male,North,Graduate,Self-Employed,912606.75,557870.28,Education,642.0,18,36,0.869,2022-10-27,0
+C10049,38.0,Female,North,Graduate,Salaried,1040095.8,627872.1,Education,645.0,26,24,0.677,2021-08-24,0
+C10050,44.0,,Central,Graduate,Salaried,868922.14,444231.88,Other,538.0,33,37,0.834,2022-01-07,1
+C10051,43.0,Other,West,Post-Graduate,Business,930953.43,266931.77,Car,633.0,12,39,0.887,2022-06-21,0
+C10052,28.0,Female,South,Graduate,Self-Employed,1026760.7,517077.24,Other,636.0,15,27,0.382,2024-10-09,0
+C10053,24.0,Male,South,Graduate,Salaried,441996.37,518860.92,Business,686.0,7,35,0.611,2026-02-16,1
+C10054,32.0,Male,North,PhD,Salaried,760492.06,582784.58,Home,778.0,23,33,0.479,2022-08-01,0
+C10055,40.0,Male,Central,Graduate,Salaried,718295.66,229928.93,Business,683.0,14,23,0.889,2024-12-14,0
+C10056,28.0,Male,North,Post-Graduate,Salaried,,192337.86,Education,628.0,12,32,0.175,2021-05-17,0
+C10057,25.0,Male,West,Post-Graduate,Salaried,772960.17,284694.47,Car,696.0,25,47,0.43,2021-01-22,0
+C10058,58.0,Other,South,High School,Salaried,1268583.57,407771.0,Education,773.0,15,27,0.8,2021-04-26,0
+C10059,37.0,Male,South,Graduate,Business,607567.29,322150.15,Car,632.0,17,38,0.327,2026-04-23,0
+C10060,46.0,Male,South,Graduate,Salaried,1121117.94,440279.41,Business,636.0,16,43,0.73,2024-05-06,0
+C10061,44.0,Female,Central,PhD,Salaried,378796.46,100000.67,Education,739.0,9,42,0.406,2025-08-18,0
+C10062,53.0,Male,North,Graduate,Salaried,756232.19,251604.55,Education,684.0,4,34,0.884,2021-02-15,1
+C10063,53.0,Female,South,High School,Salaried,895570.86,509267.11,Car,745.0,30,49,0.807,2021-02-16,0
+C10064,34.0,Male,South,Graduate,Business,1014142.25,300268.27,Car,699.0,3,42,0.341,2025-11-18,0
+C10065,58.0,Male,South,High School,Salaried,1049143.44,795121.02,Education,749.0,12,34,0.716,2021-08-04,1
+C10066,37.0,Female,North,Post-Graduate,Business,1072137.23,179780.35,Education,628.0,24,37,0.369,2021-11-23,0
+C10067,57.0,Other,Central,Graduate,Business,752356.98,631699.0,Car,,4,33,0.585,2023-12-26,1
+C10068,38.0,Female,South,Post-Graduate,Salaried,720541.5,136464.7,Education,685.0,24,37,0.627,2024-06-27,0
+C10069,25.0,Female,East,Post-Graduate,Self-Employed,1090233.25,872808.71,Car,615.0,27,34,0.764,2022-04-26,1
+C10070,54.0,Female,South,Graduate,Unemployed,796434.79,494499.85,Education,591.0,24,38,0.12,2023-07-23,1
+C10071,22.0,Male,Central,Graduate,Salaried,492807.83,388346.73,Home,748.0,11,47,0.276,2024-11-18,0
+C10072,54.0,Male,South,Post-Graduate,Salaried,532679.58,239601.06,Education,675.0,0,33,0.67,2023-07-19,0
+C10073,22.0,Female,South,Post-Graduate,Business,592553.36,307546.17,Business,628.0,32,37,0.551,2023-03-15,0
+C10074,30.0,Male,South,Post-Graduate,Business,989205.01,688734.48,Other,693.0,12,39,0.496,2021-05-31,0
+C10075,47.0,Other,South,High School,Salaried,889879.21,681393.69,Business,779.0,29,33,0.144,2023-08-07,0
+C10076,62.0,Female,North,Graduate,Self-Employed,1043335.9,204404.97,Business,540.0,7,34,0.379,2025-08-13,1
+C10077,38.0,Male,West,High School,Salaried,730369.26,278449.48,Home,595.0,6,29,0.792,2024-08-09,1
+C10078,26.0,Female,,Post-Graduate,Business,894391.11,248583.1,Car,635.0,28,34,0.125,2026-02-19,0
+C10079,31.0,Male,South,Graduate,Salaried,1025165.31,731137.36,Business,802.0,34,37,0.417,2021-09-22,0
+C10080,60.0,Female,South,Graduate,Salaried,763382.97,531241.7,Other,720.0,31,31,0.856,2021-01-24,1
+C10081,52.0,Other,South,High School,Self-Employed,977897.07,440730.98,Education,754.0,27,47,0.141,2024-02-26,0
+C10082,25.0,Male,West,Graduate,Unemployed,664660.74,358093.87,Other,620.0,9,39,0.7,2022-01-11,0
+C10083,37.0,Female,East,Post-Graduate,Business,748344.92,284391.88,Car,622.0,33,49,0.306,2024-06-01,0
+C10084,32.0,Male,Central,High School,Salaried,743113.39,74904.57,Home,731.0,24,46,0.793,2026-03-14,0
+C10085,28.0,Female,South,High School,Salaried,515164.9,228792.02,Home,704.0,6,39,0.697,2022-12-09,0
+C10086,58.0,Male,Central,Post-Graduate,Business,986352.29,442756.12,Education,738.0,4,43,0.809,2024-02-28,1
+C10087,48.0,Female,North,Post-Graduate,Business,718567.34,218740.07,Business,687.0,32,35,0.273,2024-12-02,0
+C10088,28.0,Female,East,High School,Salaried,853498.35,402950.69,Car,719.0,10,41,0.525,2021-11-12,0
+C10089,,Male,West,Graduate,Self-Employed,984609.06,424343.85,Business,711.0,28,44,0.723,2026-02-28,0
+C10090,39.0,Female,East,PhD,Salaried,975028.73,416559.44,Business,754.0,5,37,0.297,2022-03-02,0
+C10091,23.0,Other,Central,Post-Graduate,Salaried,1036307.83,382529.23,Car,756.0,10,29,0.285,2025-08-25,0
+C10092,40.0,Other,South,Graduate,Salaried,,580990.97,Car,587.0,10,36,0.122,2024-10-17,1
+C10093,29.0,Male,North,Graduate,Salaried,731476.47,375757.77,Business,543.0,10,43,0.867,2021-10-24,1
+C10094,31.0,Female,West,Graduate,Salaried,827678.9,605986.15,Business,770.0,24,38,0.668,2025-03-03,0
+C10095,59.0,Other,North,High School,Business,377546.36,236667.96,Home,783.0,33,34,0.608,2022-02-17,0
+C10096,52.0,Female,West,Post-Graduate,Salaried,444808.51,309965.31,Car,629.0,33,42,0.695,2024-06-12,0
+C10097,26.0,Male,West,High School,Salaried,479644.11,168800.1,Education,570.0,27,38,0.525,2026-07-09,1
+C10098,58.0,Female,Central,High School,Salaried,570770.89,397810.54,Education,707.0,7,34,0.481,2026-06-25,1
+C10099,46.0,Male,East,Post-Graduate,Salaried,961936.78,684696.1,Home,765.0,35,28,0.46,2026-01-04,0
+C10100,59.0,Male,Central,Post-Graduate,Salaried,596465.86,463795.32,Other,826.0,20,43,0.612,2023-11-04,0
+C10101,53.0,Female,North,Post-Graduate,Self-Employed,744114.48,539812.91,Car,736.0,20,32,0.261,2024-03-21,0
+C10102,35.0,Female,East,Graduate,Salaried,1213783.92,652770.42,Car,674.0,25,35,0.81,2022-09-23,0
+C10103,44.0,Other,North,Graduate,,750246.09,554457.96,Home,637.0,28,29,0.749,2026-04-19,1
+C10104,44.0,Female,West,Graduate,Business,1056504.36,346258.08,Other,701.0,35,34,0.38,2023-09-30,0
+C10105,52.0,Other,West,Graduate,Salaried,588587.05,325193.53,Car,679.0,21,36,0.563,2025-06-09,0
+C10106,31.0,Female,Central,Graduate,Business,792477.48,199752.89,Other,629.0,22,28,0.213,2023-01-26,0
+C10107,35.0,Other,West,Graduate,Business,583993.82,403292.92,Education,843.0,27,33,0.878,2025-04-04,1
+C10108,31.0,Male,South,Graduate,Business,755070.74,458590.12,Other,825.0,9,49,0.822,2022-04-17,0
+C10109,34.0,Male,North,Post-Graduate,Self-Employed,1085286.28,307774.48,Home,780.0,11,26,0.838,2025-03-21,0
+C10110,28.0,Other,Central,PhD,Self-Employed,366350.28,174793.28,Home,636.0,23,44,0.366,2021-04-07,0
+C10111,22.0,Other,East,High School,Self-Employed,971638.62,290771.77,Other,760.0,2,35,0.235,2021-08-09,0
+C10112,62.0,Other,North,Graduate,Self-Employed,916565.97,435503.05,Other,745.0,11,32,0.269,2023-01-10,0
+C10113,24.0,Male,Central,High School,Salaried,683638.01,87920.04,Education,731.0,26,43,0.172,2023-10-10,0
+C10114,60.0,Male,Central,Graduate,Unemployed,445103.8,240326.06,Home,787.0,36,29,0.196,2025-02-02,0
+C10115,21.0,Other,East,Graduate,Self-Employed,870196.26,156393.68,Other,744.0,19,46,0.157,2023-01-25,0
+C10116,55.0,Female,West,High School,Business,701742.04,593618.53,Car,752.0,14,34,0.892,2021-02-08,1
+C10117,35.0,Male,North,Post-Graduate,Salaried,915149.34,637776.57,Other,745.0,16,33,0.159,2022-11-15,0
+C10118,43.0,Other,North,Graduate,Salaried,856118.6,466464.91,Other,724.0,25,27,0.206,2023-07-12,0
+C10119,33.0,Other,South,Post-Graduate,Salaried,1298498.09,894996.91,Other,575.0,20,40,0.762,2024-02-16,1
+C10120,42.0,Male,West,High School,Salaried,782980.42,567475.79,Business,706.0,0,48,0.564,2024-09-14,1
+C10121,40.0,Other,North,High School,Salaried,563420.7,387023.44,Business,661.0,19,42,0.72,2022-06-05,1
+C10122,44.0,Other,North,Graduate,Salaried,900197.18,344175.54,Education,610.0,14,37,0.605,2024-07-05,0
+C10123,38.0,Female,West,High School,Salaried,911599.07,559665.33,Home,818.0,25,36,0.806,2024-08-19,0
+C10124,44.0,Female,West,Graduate,Salaried,1230572.52,293413.99,Car,,32,34,0.611,2025-06-19,0
+C10125,57.0,Male,West,PhD,Salaried,1083831.15,669005.72,Business,795.0,35,34,0.518,2024-01-02,0
+C10126,40.0,Other,West,High School,Unemployed,949923.9,277137.44,Other,718.0,22,26,0.67,2025-08-30,0
+C10127,36.0,Other,Central,High School,Salaried,1259724.81,829591.46,Education,795.0,13,35,0.458,2022-04-11,0
+C10128,26.0,Other,West,Graduate,Salaried,517146.34,278696.6,Business,701.0,16,38,0.377,2025-02-03,0
+C10129,36.0,Other,East,Graduate,Salaried,670869.57,297965.29,Home,714.0,6,29,0.474,2021-04-07,0
+C10130,26.0,Male,Central,Graduate,Salaried,590558.74,251888.21,Education,623.0,34,36,0.236,2021-08-04,0
+C10131,29.0,Female,South,Graduate,Salaried,740853.26,435038.19,Education,728.0,31,23,0.737,2025-12-21,0
+C10132,62.0,Female,North,Post-Graduate,Self-Employed,464527.88,242456.17,Other,704.0,31,24,0.309,2023-09-25,0
+C10133,24.0,Other,West,High School,Unemployed,1027842.27,446059.64,Car,609.0,12,37,0.223,2024-07-27,0
+C10134,42.0,Female,South,Graduate,Salaried,787777.64,443861.44,Car,696.0,11,37,0.297,2024-06-21,0
+C10135,57.0,Female,Central,Graduate,Self-Employed,438174.24,374757.4,Car,694.0,31,30,0.774,2024-12-30,1
+C10136,62.0,Male,East,Post-Graduate,Salaried,565637.86,135833.72,Home,826.0,20,38,0.364,2022-05-31,0
+C10137,27.0,Other,Central,Graduate,Salaried,937783.88,163952.6,Education,763.0,26,49,0.649,2022-01-10,0
+C10138,28.0,Female,North,Graduate,Salaried,1084675.44,292309.3,Business,701.0,18,26,0.785,2021-03-31,0
+C10139,37.0,Male,West,High School,Salaried,1409084.65,912011.12,Other,717.0,16,35,0.162,2025-12-22,0
+C10140,45.0,Other,East,High School,Self-Employed,1665881.49,726853.12,Other,703.0,23,34,0.712,2022-04-15,0
+C10141,63.0,Male,East,High School,Self-Employed,966034.64,622815.98,Home,686.0,30,37,0.346,2024-04-22,0
+C10142,30.0,Male,South,Post-Graduate,Self-Employed,572929.33,393527.07,Car,624.0,12,33,0.273,2023-08-14,0
+C10143,28.0,Male,Central,Graduate,Salaried,253027.04,110205.77,Car,689.0,29,39,0.651,2021-12-07,0
+C10144,32.0,Female,South,Post-Graduate,Self-Employed,924959.21,619041.66,Car,648.0,9,31,0.828,2023-05-20,1
+C10145,59.0,Male,Central,High School,Salaried,622376.49,420805.31,Other,612.0,14,30,0.336,2021-06-24,0
+C10146,22.0,Other,East,Post-Graduate,Salaried,,267341.54,Home,736.0,33,36,0.555,2022-01-07,0
+C10147,37.0,Female,North,Post-Graduate,Salaried,678612.9,211815.08,Home,727.0,35,36,0.332,2021-10-21,0
+C10148,26.0,Male,Central,High School,Self-Employed,810578.55,313290.63,Other,575.0,34,36,0.543,2025-09-28,1
+C10149,27.0,Male,North,High School,Unemployed,1148474.46,197142.66,Other,691.0,11,25,0.597,2024-04-06,0
+C10150,61.0,Female,South,High School,Salaried,893973.6,320109.17,Car,770.0,31,31,0.588,2026-04-28,0
+C10151,21.0,Male,Central,Post-Graduate,Self-Employed,805582.25,736083.2,Car,774.0,34,35,0.599,2023-07-05,0
+C10152,35.0,Other,Central,High School,Business,560016.95,237989.91,Education,772.0,36,36,0.208,2022-02-27,0
+C10153,61.0,Male,Central,Graduate,Business,381088.78,184860.34,Education,703.0,0,42,0.655,2024-07-02,0
+C10154,47.0,Female,East,Graduate,Salaried,713833.79,302992.55,Other,641.0,27,41,0.64,2026-05-07,0
+C10155,24.0,Male,West,Post-Graduate,Self-Employed,834940.89,367498.36,Education,624.0,36,38,0.646,2024-01-24,0
+C10156,41.0,Male,South,Graduate,Self-Employed,1345020.38,1062577.68,Home,724.0,28,38,0.159,2021-02-07,0
+C10157,63.0,Male,West,Graduate,Business,886476.87,542125.67,Education,727.0,8,39,0.457,2022-09-30,0
+C10158,38.0,Male,East,PhD,Salaried,1125167.06,596342.4,Education,790.0,28,51,0.427,2026-04-27,0
+C10159,44.0,Other,North,High School,Business,710197.23,433442.96,Education,777.0,3,35,0.169,2023-12-25,0
+C10160,44.0,Other,East,Post-Graduate,Salaried,518215.75,353270.93,Education,691.0,17,36,0.278,2026-06-23,0
+C10161,50.0,Other,East,High School,Business,579767.31,319636.4,Other,613.0,23,35,0.453,2023-12-06,0
+C10162,29.0,Male,South,Graduate,Salaried,646936.7,544275.81,Other,678.0,16,40,0.694,2021-01-26,0
+C10163,57.0,Other,South,Post-Graduate,Salaried,1445971.53,449595.51,Car,715.0,25,30,0.29,2026-01-08,0
+C10164,64.0,Female,East,Graduate,Salaried,620011.73,376574.16,Car,686.0,8,32,0.764,2025-05-22,0
+C10165,27.0,Male,North,Graduate,Salaried,1084776.98,663907.23,Business,660.0,22,50,0.537,2025-02-11,0
+C10166,57.0,Male,North,Graduate,Salaried,597180.39,268034.44,Education,718.0,23,30,0.708,2026-07-31,0
+C10167,56.0,Female,West,Graduate,Salaried,1110840.44,508425.47,Education,665.0,23,36,0.478,2022-02-17,0
+C10168,53.0,Female,South,Graduate,Salaried,957786.27,513986.67,Home,656.0,10,41,0.499,2026-03-18,0
+C10169,37.0,Male,West,Graduate,Salaried,806141.39,98211.14,Car,722.0,11,30,0.596,2022-05-04,0
+C10170,41.0,Other,East,Graduate,Business,838586.49,356036.22,Business,672.0,9,36,0.842,2026-08-01,0
+C10171,57.0,Other,East,Graduate,Business,666659.45,542063.27,Other,717.0,17,32,0.493,2022-02-07,0
+C10172,27.0,Female,East,Graduate,Self-Employed,974900.22,364713.12,Business,719.0,21,28,0.523,2024-03-01,0
+C10173,57.0,Other,East,Graduate,Salaried,722604.63,216087.63,Car,620.0,13,40,0.582,2025-07-16,0
+C10174,61.0,Other,Central,Graduate,Salaried,506830.39,269028.05,Home,666.0,15,36,0.69,2021-06-14,0
+C10175,51.0,Other,Central,High School,Business,492177.48,137420.2,Home,801.0,10,35,0.157,2021-05-21,0
+C10176,36.0,Male,South,Post-Graduate,Salaried,898324.62,801501.27,Car,619.0,8,31,0.513,2025-11-20,0
+C10177,45.0,Other,West,Graduate,Salaried,1292145.55,856572.63,Education,552.0,24,30,0.485,2021-05-07,1
+C10178,23.0,Female,Central,High School,Business,894797.65,158924.55,Other,570.0,30,34,0.837,2024-07-13,1
+C10179,61.0,Other,North,Graduate,Unemployed,816781.27,730447.87,Other,702.0,10,41,0.495,2026-05-25,1
+C10180,36.0,Other,West,Post-Graduate,Salaried,930031.32,765288.04,Home,702.0,31,32,0.475,2024-07-14,0
+C10181,23.0,Male,East,High School,Self-Employed,1215680.49,455318.39,Business,692.0,21,35,0.87,2023-10-08,0
+C10182,55.0,Female,Central,High School,Salaried,911427.1,552661.41,Car,785.0,6,34,0.46,2023-05-27,0
+C10183,49.0,Male,East,High School,Business,734940.38,202651.87,Home,513.0,13,36,0.245,2024-09-02,1
+C10184,48.0,Male,Central,High School,Salaried,1159760.84,912668.34,Education,728.0,0,38,0.274,2024-04-15,1
+C10185,23.0,Female,North,Post-Graduate,Salaried,970051.8,614001.17,Home,809.0,1,45,0.176,2023-11-20,0
+C10186,54.0,Other,North,PhD,Self-Employed,1280011.68,674857.67,Car,621.0,12,35,0.1,2021-11-19,0
+C10187,49.0,Other,Central,High School,Salaried,901305.64,223498.71,Education,673.0,16,36,0.446,2024-10-23,0
+C10188,55.0,Female,East,Post-Graduate,Self-Employed,507148.67,338060.88,Car,647.0,29,37,0.715,2025-04-03,1
+C10189,57.0,Male,East,High School,Salaried,466915.42,30000.0,Education,637.0,4,43,0.687,2025-01-28,0
+C10190,30.0,Female,North,Graduate,Business,1312259.82,468026.67,Education,677.0,31,31,0.126,2021-06-07,0
+C10191,30.0,Other,South,Post-Graduate,Business,1332626.4,350225.39,Business,800.0,8,33,0.556,2025-01-16,0
+C10192,61.0,Other,Central,Graduate,Salaried,799734.62,511827.57,Home,829.0,5,32,0.223,2025-03-13,0
+C10193,44.0,Male,South,High School,Business,742707.55,316034.1,Home,676.0,25,48,0.853,2022-01-21,0
+C10194,40.0,Male,East,Graduate,Salaried,1259204.4,960710.76,Education,833.0,28,37,0.234,2025-11-18,0
+C10195,33.0,Other,South,PhD,Salaried,540027.21,331333.81,Car,702.0,22,29,0.601,2024-01-06,0
+C10196,49.0,Male,South,Graduate,Salaried,599476.43,123920.49,Business,823.0,4,34,0.361,2023-09-20,0
+C10197,54.0,Male,North,High School,Business,1030131.5,115058.52,Home,693.0,4,39,0.613,2025-02-26,0
+C10198,21.0,Male,Central,High School,Business,739510.57,170647.23,Education,709.0,14,30,0.43,2023-12-07,0
+C10199,45.0,Female,Central,Graduate,Business,848565.88,449860.42,Other,726.0,16,32,0.708,2024-02-18,0
+C10200,64.0,Female,North,Graduate,Business,804235.99,543027.08,Home,850.0,36,28,0.285,2022-10-18,0
+C10201,33.0,Female,South,Post-Graduate,Unemployed,944520.87,394785.8,Car,760.0,10,42,0.825,2026-05-03,1
+C10202,33.0,Male,East,Post-Graduate,Salaried,1244094.92,853494.87,Other,650.0,7,32,0.5,2026-07-29,1
+C10203,59.0,Other,South,Post-Graduate,Business,875363.77,30000.0,Education,768.0,34,35,0.705,2021-10-01,0
+C10204,23.0,Other,West,Post-Graduate,Self-Employed,1030302.86,844975.76,Home,675.0,5,41,0.78,2025-03-20,1
+C10205,38.0,Female,South,High School,Salaried,275951.81,399064.51,Car,666.0,0,34,0.899,2021-02-19,1
+C10206,41.0,Male,North,Graduate,Self-Employed,836358.85,549116.76,Business,764.0,15,30,0.279,2023-02-14,0
+C10207,56.0,Female,South,Graduate,Salaried,613895.52,256506.92,Other,702.0,14,21,0.33,2026-07-30,0
+C10208,26.0,Other,East,Graduate,Salaried,508732.34,352991.32,Car,720.0,22,36,0.3,2022-01-03,0
+C10209,40.0,Female,North,Post-Graduate,Salaried,604117.34,87561.26,Education,701.0,32,26,0.31,2023-03-03,0
+C10210,27.0,Male,Central,Graduate,Salaried,756445.44,207018.16,Business,724.0,34,41,0.566,2022-04-07,0
+C10211,55.0,Female,North,PhD,Salaried,1106452.71,184786.24,Home,730.0,10,30,0.895,2025-03-10,0
+C10212,48.0,Female,North,Graduate,Business,478610.04,281392.3,Car,564.0,36,34,0.892,2023-09-02,1
+C10213,42.0,Female,East,Graduate,Self-Employed,858576.82,613362.92,Business,747.0,23,43,0.521,2024-05-30,0
+C10214,38.0,Female,East,Graduate,Salaried,714432.56,317627.17,Home,631.0,2,34,0.611,2026-06-03,0
+C10215,27.0,Male,South,High School,Salaried,758251.53,614441.52,Business,599.0,34,46,0.788,2023-12-31,1
+C10216,61.0,Other,South,High School,Salaried,1130772.19,436161.15,Education,696.0,5,40,0.846,2025-03-22,1
+C10217,49.0,Female,North,Graduate,Salaried,1000672.32,676718.57,Other,706.0,21,27,0.263,2021-07-25,0
+C10218,35.0,Female,West,High School,Business,1224471.47,325519.62,Home,651.0,29,30,0.523,2022-03-29,0
+C10219,39.0,Female,South,Post-Graduate,Salaried,806738.41,263972.58,Other,758.0,9,35,0.766,2026-06-12,0
+C10220,52.0,Female,North,High School,Self-Employed,655136.07,466897.3,Car,606.0,10,42,0.343,2025-12-11,0
